@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/riven/riven.iml" filepath="$PROJECT_DIR$/riven/riven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rivenProject.iml" filepath="$PROJECT_DIR$/rivenProject.iml" />
+    </modules>
+  </component>
+</project>
+
